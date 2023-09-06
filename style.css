@@ -5,12 +5,13 @@
     text-align:center;
 }
 .itrdc{
-    color:aliceblue;
+    color:rgba(0, 0, 0, 0.932);
     text-align:center;
     position:relative;
     font-size:x-large;
     justify-content:center;
-    background-image:url("https://img1.imgtp.com/2023/09/03/YVQLUtkP.png");
+    background-image:url("https://picst.sunbangyan.cn/2023/09/06/m2tpsa.jpg");
+    background-repeat:no-repeat;
 }
 
 a{
