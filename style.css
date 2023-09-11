@@ -11,9 +11,21 @@
     font-size:x-large;
     justify-content:center;
     background-image:url("https://picst.sunbangyan.cn/2023/09/06/m2tpsa.jpg");
-    background-repeat:no-repeat;
+    background-repeat:round;
 }
 
 a{
     color:black;
+}
+h2{
+    color:#000;
+    text-align:left;
+    padding:5px;
+    margin:5px;
+}
+.product{
+    bottom:16px;
+    text-align:center;
+    padding:2px;
+    margin:2px;
 }
